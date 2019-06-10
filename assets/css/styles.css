@@ -2495,7 +2495,9 @@ body {
     ==============
 */
 .mh-service .mh-service-item {
-  padding: 20px; }
+  padding: 20px;
+    min-height: 300px;
+}
   .mh-service .mh-service-item .fa {
     font-size: 30px;
     margin-bottom: 20px;
