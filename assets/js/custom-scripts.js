@@ -168,7 +168,7 @@
         responsiveClass: true,
         nav: false,
         dots: false,
-        autoplay: true,
+        autoplay: false,
         smartSpeed: 450,
         stopOnHover : true,
         animateIn: 'slideInRight',
