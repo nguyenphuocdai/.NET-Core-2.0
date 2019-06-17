@@ -15,11 +15,11 @@
 @media only screen and (max-width: 1400px) {
   .mh-single-project-slide-by-side .owl-prev {
     top: 40%;
-    left: 0; }
+    left: -30px; }
 
   .mh-single-project-slide-by-side .owl-next {
     top: 44%;
-    right: 0; } }
+    right: -30px; } }
 @media only screen and (max-width: 991px) {
   .section-separator {
     padding: 40px 0; }
