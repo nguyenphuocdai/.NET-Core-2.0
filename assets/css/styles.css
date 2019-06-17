@@ -1026,7 +1026,7 @@ body {
       border-bottom-right-radius: 20px;
       border-bottom-left-radius: 0px; }
   .mh-home .mh-header-info h2 {
-    font-size: 60px;
+    font-size: 48px;
     font-weight: 600;
     line-height: 65px;
     margin-top: 10px;
@@ -2424,6 +2424,12 @@ body {
     margin-top: 12px;
     margin-bottom: 12px;
     text-transform: uppercase; }
+
+    .mh-featured-project .mh-featured-item .mh-featured-project-content h3 {
+      letter-spacing: 2px;
+      margin-top: 12px;
+      margin-bottom: 12px;
+   }
   .mh-featured-project .mh-featured-item .mh-featured-project-content span {
     text-transform: uppercase; }
   .mh-featured-project .mh-featured-item .mh-featured-project-content p {
